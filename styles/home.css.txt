@@ -4,6 +4,7 @@ body {
     padding: 0;
     text-align: center;
 }
+/* Header Styles */
 
 header {
     background-color: #4CAF50;
