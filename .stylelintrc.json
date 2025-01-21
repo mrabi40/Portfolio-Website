@@ -1,0 +1,10 @@
+{
+    "rules": {
+      "color-hex-length": "short",
+      "color-named": "never",
+      "selector-max-id": 0,
+      "declaration-no-important": true,
+      "max-nesting-depth": 3
+    }
+  }
+  
